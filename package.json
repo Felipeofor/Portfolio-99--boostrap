@@ -1,0 +1,15 @@
+{
+  "name": "segunda-entrega",
+  "version": "1.0.0",
+  "description": "Mi portafolio personal.\r Proyecto final de desarrollo web en Coder House, aun en curso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
